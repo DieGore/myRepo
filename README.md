@@ -1,2 +1,2 @@
 # myRepo
-Hello World Repo testing GitHub
+Hello World Repo testing GitHub code projects
